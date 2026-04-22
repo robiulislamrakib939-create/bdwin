@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "pamzar",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "sikkim Game",
+	"icons": [
+		{
+			"src": "/logo.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/logo.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}
